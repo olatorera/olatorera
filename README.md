@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @olatorera
-- 👀 I’m interested in CSS HTML JAVASCRIPT REACT 
-- 🌱 I’m currently learning JAVASCRIPT AND REACT  
+- 👋 Hi, I’m ANUOLUWAPO SANUSI
+- 👀 I am a software developer interested in building world-class projects.
+- 🌱 I code with HTML, CSS, JAVASCRIPT, TYPESCRIPT, SCSS AND REACT  
 - 💞️ I’m looking to collaborate on TEAMS WORK AND JOBS
 - 📫 How to reach me sanusiolatorera@gmail.com
 
